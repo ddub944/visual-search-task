@@ -1,1 +1,0 @@
-// jsPsych core library (placeholder)
