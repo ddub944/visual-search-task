@@ -1,1 +1,0 @@
-// visual-search-circle plugin (placeholder)
